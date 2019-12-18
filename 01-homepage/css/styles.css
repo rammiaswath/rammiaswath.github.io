@@ -452,14 +452,14 @@ footer .copyright{ padding: 20px 0 30px; }
 	display: flex;
 	justify-content:center;
 	padding:1em;
-	background-color: #e0d1d1;
+	background-color: transparent;
   	border: 2px solid #e55f74;
   	border-radius: 6em;
 }
 
 
 .sub-button:hover {
-	transform: scale(1.2);
+	
 	background-color: #fff;
 	transition: all 1s;
 	text-shadow: 5px 5px 10px black;
